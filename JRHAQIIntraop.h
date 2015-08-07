@@ -4,7 +4,7 @@
 //
 //  Created by Jim Hurst on 11/12/14.
 //  
-//  Header file for Anesthesia Quality Institute Intraoperative report data model. This is just a list of variable 
+//  Header file for Anesthesia Quality Institute Intraoperative report data model. This is just a list of variables 
 //  used to capture intraoperative adverse events, and communicate them with the LAMP back end. Not much to see: a 
 //  list of variable names, and method declarations.
 
